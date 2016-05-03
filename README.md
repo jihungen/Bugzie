@@ -5,11 +5,11 @@ It is the implementation of Bugzie (Automated bug triage tool) [1].
 
 Use of ARFF file
 -----
-Please refer to TestBugzieARFF.java file in the test.
+Please refer to [TestBugzieARFF.java](src/test/java/hk/ust/ipam/bugtriage/bugzie/TestBugzieARFF.java).
 
 Use of CSV file
 -----
-Please refer to TestBugzieCSV.java file in the test.
+Please refer to [TestBugzieCSV.java](src/test/java/hk/ust/ipam/bugtriage/bugzie/TestBugzieCSV.java).
 
 Reference
 -----
